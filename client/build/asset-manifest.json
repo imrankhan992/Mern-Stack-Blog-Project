@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imrankhan992/Mern-Stack-Blog-Project/static/css/main.19097d7b.css",
+    "main.js": "/imrankhan992/Mern-Stack-Blog-Project/static/js/main.a738cf82.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/imrankhan992/Mern-Stack-Blog-Project/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/loading.gif": "/imrankhan992/Mern-Stack-Blog-Project/static/media/loading.7f11a3a7a57344b85589.gif",
+    "index.html": "/imrankhan992/Mern-Stack-Blog-Project/index.html",
+    "main.19097d7b.css.map": "/imrankhan992/Mern-Stack-Blog-Project/static/css/main.19097d7b.css.map",
+    "main.a738cf82.js.map": "/imrankhan992/Mern-Stack-Blog-Project/static/js/main.a738cf82.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/imrankhan992/Mern-Stack-Blog-Project/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19097d7b.css",
+    "static/js/main.a738cf82.js"
+  ]
+}
